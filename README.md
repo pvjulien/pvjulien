@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 Philosopher
+- 🤖 Working on artificial intelligence
+- 🏫 At Eindhoven University of Technology
+
 <!--
 **pvjulien/pvjulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
